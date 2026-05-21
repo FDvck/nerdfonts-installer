@@ -8,7 +8,7 @@ The script dynamically queries the GitHub API to ensure it always downloads the 
 By default, the script deploys the following icon-patched font families:
 * **Hack**
 * **Gohu**
-* **Mononoke**
+* **Mononoki**
 * **Iosevka**
 * **IosevkaTerm**
 * **Anonymous Pro**
