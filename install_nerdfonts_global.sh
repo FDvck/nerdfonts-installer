@@ -11,7 +11,7 @@ fi
 FONT_DIR="/usr/local/share/fonts/NerdFonts"
 
 # Explicit array of exact .zip file names in the repository
-FONTS=("Hack" "Gohu" "Iosevka" "IosevkaTerm" "AnonymousPro")
+FONTS=("Hack" "Gohu" "Mononoki" "Iosevka" "IosevkaTerm" "AnonymousPro")
 
 # 2. Check for required dependencies
 for cmd in curl unzip fc-cache jq; do

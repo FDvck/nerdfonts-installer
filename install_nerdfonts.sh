@@ -4,7 +4,7 @@
 FONT_DIR="$HOME/.local/share/fonts/NerdFonts"
 
 # Exact names of the .zip files in the repository
-FONTS=("Hack" "Gohu" "Iosevka" "IosevkaTerm" "AnonymousPro")
+FONTS=("Hack" "Gohu" "Mononoki" "Iosevka" "IosevkaTerm" "AnonymousPro")
 
 # 1. Check required dependencies (added 'curl' and 'jq' to parse the API safely)
 for cmd in wget unzip fc-cache; do
